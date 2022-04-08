@@ -3,7 +3,7 @@
 
 <br> 
 
-
+![Profile views](https://gpvc.arturio.dev/lord-fab-sekai) 
 
  <img align="right" alt="GIF" src="https://github.com/lord-fab-sekai/lord-fab-sekai/blob/main/fab.gif" width="500"/>
 
@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://codepen.io/lard-fab-sekai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lard-fab-sekai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/komlanvi fabrice eklou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komlanvi fabrice eklou" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/komlanvi-fabrice-eklou-989678129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komlanvi fabrice eklou" height="30" width="40" /></a>
 <a href="https://instagram.com/lord_fab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lord_fab" height="30" width="40" /></a>
 <a href="https://discord.gg/lord_fab#7323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lord_fab#7323" height="30" width="40" /></a>
 </p>
@@ -84,4 +84,6 @@
   <summary>:zap: Most Used Languages</summary>
   <img align="left" alt="lord-fab-sekai  GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-fab-sekai" />
 </details>
+
+
 
