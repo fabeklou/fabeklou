@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 Reach me out via mail at : **fab.eklou@gmail.com**
+- 📫 Reach me out via email at : **fab.eklou@gmail.com**
 
 - 📄 Know about my experiences [Linkedin.](https://www.linkedin.com/in/komlanvi-fabrice-eklou-989678129/)
 
